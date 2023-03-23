@@ -17,6 +17,6 @@ This [book](https://37signals.com/books/#calm) is a very quick read - it is esse
 
 Particularly noteworthy is the reflection on agile software development and the perceived pressure or pace of projects. Meanwhile, their process model ["shape up"](https://basecamp.com/shapeup) has its own book. I would really like to try it in practice. Longer, more focused development times, less talk. This should go down pretty well with most developers I know.
 
-But what really stuck with me was that asynchronous and quiet communication is king. Longer, written communication is better than Meetings or chat. Everyone hates meetings anyway - skip them as much as possible. 
+But what really stuck with me was that asynchronous and quiet communication is king. Longer, written communication is better than meetings or chat. Everyone hates meetings anyway - skip them as much as possible. 
 
-I guess what makes this book remarkable is that everyone finds pieces of good advice for certain topics but everyone will find different topics of interest.
+My book is still making the rounds among colleagues - I guess what makes this book remarkable is that everyone finds pieces of good advice for certain topics but everyone will find different topics of interest. 
