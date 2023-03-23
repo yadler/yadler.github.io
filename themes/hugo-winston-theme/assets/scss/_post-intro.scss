@@ -1,4 +1,4 @@
-.intro {
+.post-intro {
   margin-bottom: 24px;
   h1 {
     font-size: 48px;
@@ -7,9 +7,9 @@
     margin-bottom: 30px;
     @include breakpoint('small') {
       width: 80%;
-      font-size: 88px;
-      line-height: 96px;
-      margin-bottom: 50px;
+      font-size: 60px;
+      line-height: 66px;
+      margin-bottom: 30px;
     }
     strong {
       color: var(--highlight-color);
@@ -43,15 +43,4 @@
   img {
     max-width: 100%;
   }
-  // img {
-  //   margin-right: -30px;
-  //   width: 100vw;
-  //   vertical-align: bottom;
-  //   @include breakpoint('small') {
-  //     margin-left: -100px;
-  //     margin-right: -100px;
-  //     margin-bottom: 50px;
-  //     width: auto;
-  //   }
-  // }
 }

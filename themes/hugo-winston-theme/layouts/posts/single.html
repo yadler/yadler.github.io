@@ -5,7 +5,7 @@
     {{ if .Site.Params.showAuthorOnPosts }}
       {{ partial "author.html" . }}
     {{ end }}
-    <div class="intro">
+    <div class="post-intro">
       <h1>{{ .Title }}{{ if .Site.Params.addDot }}<span class="dot">.</span>{{ end }}</h1>
       {{ if .Params.image }}
       <img src="{{ .Params.image | relURL }}" />
