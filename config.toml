@@ -1,0 +1,39 @@
+baseURL = "https://yadler.github.io/"
+languageCode = "en-us"
+title = "Yves' Blog"
+author = "Yves Adler"
+theme = "hugo-winston-theme"
+paginate = 5
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[params]
+    google_analytics_id = ""
+    twitter_handle = "@zerostaticio"
+    showAuthorOnHomepage = false
+    showAuthorOnPosts = true
+    showAuthorOnPostsList = false
+    showPostsOnHomepage = true
+    addDot = true
+    addFrame = false
+    baseColor = "#ffffff"
+    baseOffsetColor = "#eaeaea"
+    highlightColor = "#7b16ff"
+    dotColor = "#7b16ff"
+    headingColor = "#1c1b1d"
+    textColor = "#4e5157"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        hardWraps = false
+        unsafe = true
+        xhtml = false
+[menu]
+    [[menu.main]]
+        identifier = 'home'
+        name = 'Home'
+        url = '/'
+        weight = 1

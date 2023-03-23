@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/yadler",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/yves-a-5366211a5/",
+      "image": "images/social/linkedin.svg"
+    }
+  ]
+}
