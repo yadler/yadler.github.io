@@ -23,7 +23,7 @@ pygmentsUseClasses = true
     highlightColor = "#7b16ff"
     dotColor = "#7b16ff"
     headingColor = "#1c1b1d"
-    textColor = "#4e5157"
+    textColor = "#2d2e31"
 
 [markup]
     [markup.goldmark]
