@@ -89,7 +89,7 @@ In addition, there are many more operations and delivery engineering topics to c
 - Development environments (how to run these services locally)
 - Package and container registries
 - Service discovery
-- Observability - from [Logging](/posts/logging/) to monitoring, tracing and alerting
+- Observability - from [Logging]({{< relref "/posts/logging.md" >}}) to monitoring, tracing and alerting
 
 Some of these issues might also be relevant for Monolith, but are not difficult to solve.
 
