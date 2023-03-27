@@ -43,6 +43,8 @@ What technologies would I use if I were to start a greenfield product today?
 
 ### Tooling
 
+- [Ubuntu](https://ubuntu.com/) or any other Linux which I installed myself on the laptop I've selected myself
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/business/)
 - [gitlab](https://about.gitlab.com/) as code hosting and CI platform
 - [Grafana](https://grafana.com/) and [Prometheus](https://prometheus.io/) for metrics and graphs
 - [Airbyte](https://airbyte.com), [dbt](https://getdbt.com/) and [Metabase](https://www.metabase.com/) as a baseline business intelligence/reporting stack
@@ -72,3 +74,5 @@ Learned my lessons, every one of these technologies/frameworks actually deserve 
 - [Angular](https://angular.io/) 
 - [Vaadin](https://vaadin.com/) or [GWT](https://www.gwtproject.org/)
 - [Java](https://openjdk.org/) below version 17
+- [Eclipse](https://www.eclipse.org/)
+- [Microsoft Windows](https://www.microsoft.com/de-de/windows)
