@@ -55,7 +55,7 @@ If you went the polyglott way then you also have a higher burden if people want 
 
 #### Performance and error handling
 
-While you can now scale services independently of each other you most likely introduced a significant amount of inter-service communication. Each communication attempt can fail, be slow or hang indefinitely. Each communication attempt can fail, be slow or hang indefinitely. Latency adds up quickly. One slow DNS server somewhere in k8s and your system performance will decrease quickly. 
+While you can now scale services independently of each other you most likely introduced a significant amount of inter-service communication. Each communication attempt can fail, be slow or hang indefinitely. Latency adds up quickly. One slow DNS server somewhere in k8s and your system performance will decrease quickly. 
 
 You need to be ready to handle these from the start. Ready to discuss HTTP client and server settings in detail? Ready to trace DNS hiccups? Ready for request tracing across multiple protocols and services? Because you will have to do all of that sooner rather than later.
 
