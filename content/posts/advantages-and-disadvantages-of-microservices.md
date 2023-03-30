@@ -102,5 +102,6 @@ Some of these issues might also be relevant for Monolith, but are not difficult 
 - [Google Cloud - Best Practices for Microservice Performance](https://cloud.google.com/appengine/docs/legacy/standard/java/microservice-performance)
 - [DZone - What Problems Do Microservices Solve?](https://dzone.com/articles/what-problems-do-microservices-solve)
 - [Containerum - 10 Tech Challenges That Are Solved by Microservices](https://medium.com/containerum/10-tech-challenges-that-are-solved-by-microservices-d91adeecb2e7)
+- [Philipp Hauer - Microservices in a Nutshell. Pros and Cons.](https://phauer.com/2015/microservices-nutshell-pros-cons/)
 - [RedHat Developers - The disadvantages vs. benefits of microservices](https://developers.redhat.com/articles/2022/01/25/disadvantages-microservices)
 - [Stackoverflow: Authentication: JWT usage vs session](https://stackoverflow.com/a/45214431)
