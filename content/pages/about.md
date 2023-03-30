@@ -52,7 +52,7 @@ What technologies would I use if I were to start a greenfield product today?
 - [HAProxy](https://www.haproxy.org/) for load balancing and routing
 - [Fastly](https://www.fastly.com/) or [Cloudflare](https://www.cloudflare.com/) as CDNs
 - [git](https://git-scm.com/) as distributed version control with a [git-flow](https://nvie.com/posts/a-successful-git-branching-model/) or [GitHub Flow](https://githubflow.github.io/) approach
-
+- [Postman](https://www.postman.com/) 
 
 ## Things I am productive with
 
