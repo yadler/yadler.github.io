@@ -105,3 +105,4 @@ Some of these issues might also be relevant for Monolith, but are not difficult 
 - [Philipp Hauer - Microservices in a Nutshell. Pros and Cons.](https://phauer.com/2015/microservices-nutshell-pros-cons/)
 - [RedHat Developers - The disadvantages vs. benefits of microservices](https://developers.redhat.com/articles/2022/01/25/disadvantages-microservices)
 - [Stackoverflow: Authentication: JWT usage vs session](https://stackoverflow.com/a/45214431)
+- [Yves Adler - Microservices Prerequisites]({{< relref "/posts/microservices-prerequisites.md" >}})
