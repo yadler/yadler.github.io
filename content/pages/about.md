@@ -29,7 +29,7 @@ What technologies would I use if I were to start a greenfield product today?
 - [Elasticsearch](https://www.elastic.co/elasticsearch/), if (fulltext) search is actually required
 - [kafka](https://kafka.apache.org/) or [RabbitMQ](https://www.rabbitmq.com/) as message broker
 - [Keycloak](https://www.keycloak.org/) for identity and access management
-- [Testcontainers](https://www.testcontainers.org/) as essential
+- [Testcontainers](https://www.testcontainers.org/) as essential tool for integration tests  
 - [Ruby](https://www.ruby-lang.org/en/) for (one-time) scripts and tooling
 
 ### Frontend
@@ -37,7 +37,7 @@ What technologies would I use if I were to start a greenfield product today?
 - SSR as default, SPA if required
 - [HUGO](https://gohugo.io/) or [Jekyll](https://jekyllrb.com/) for static pages ([Jamstack](https://jamstack.org/) approach looks promising)
 - [TypeScript](https://www.typescriptlang.org/) plus [React](https://react.dev/) or [Svelte](https://svelte.dev) for (dynamic) applications
-- SCSS, styled components as default
+- [SCSS](https://sass-lang.com), styled components as default ([BEM](https://getbem.com/) as fallback)
 - [strapi](https://strapi.io/) as (headless) CMS
 - [cypress](https://www.cypress.io/) for integration/system tests
 
@@ -64,15 +64,14 @@ We are not living in a perfect world. I would be absolutely fine if the stack in
 - [MariaDB](https://mariadb.org/) or [MySQL](https://www.mysql.com/)
 - [MongoDB](https://www.mongodb.com/)
 
-
 ## Stuff, I'd like to avoid
 
 Learned my lessons, every one of these technologies/frameworks actually deserve an article on why I would like to avoid it. 
 
 - [Project Lombok](https://projectlombok.org/)
 - [Hibernate ORM](https://hibernate.org/orm/documentation/6.1/), probably most of [JPA](https://www.oracle.com/technical-resources/articles/java/jpa.html)
-- [Angular](https://angular.io/) 
 - [Vaadin](https://vaadin.com/) or [GWT](https://www.gwtproject.org/)
+- I have not yet seen an application which was developed using [Angular](https://angular.io/) with proper state management
 - [Java](https://openjdk.org/) below version 17
 - [Eclipse](https://www.eclipse.org/)
 - [Microsoft Windows](https://www.microsoft.com/de-de/windows)
