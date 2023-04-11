@@ -144,6 +144,7 @@ The same goes for any kind of reporting or data warehousing. You will have to de
 - [Vivek Juneja - Microservices: Four Essential Checklists when Getting Started ](https://thenewstack.io/microservices-four-essential-checklists-getting-started/)
 - [Pattern: Microservice chassis](https://microservices.io/patterns/microservice-chassis.html)
 - [Manuel Kruisz - Microservice Bad Smells and Anti Patterns](https://www.manuelkruisz.com/blog/posts/microservice-bad-smells)
+- [Matt Rickard - Reflections on 10,000 Hours of DevOps](https://matt-rickard.com/reflections-on-10-000-hours-of-devops)
 - [Jason Barry - The benefits of on-demand staging environments](https://dev.to/featurepeek/the-benefits-of-on-demand-staging-environments-1fjj)
 - [Arun Surendran - What are On-Demand Feature Environments?](https://medium.com/techbeatly/what-are-on-demand-feature-environments-982eaa96fdd5)
 - [Philipp Hauer - Don't Share Libraries among Microservices](https://phauer.com/2016/dont-share-libraries-among-microservices/)
