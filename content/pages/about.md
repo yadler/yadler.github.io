@@ -10,7 +10,7 @@ menu:
 
 # Hi, I'm Yves
 
-I currently work as a team lead and full-stack developer for logistics solutions at [Pamyra](https://www.pamyra.de).
+I am currently supporting the German administration with digitalization as a senior full-stack software developer at [SINC](https://www.sinc.de). Previously I led software development teams at [Pamyra](https://www.pamyra.de) and [Spreadshirt](https://www.spreadshirt.de).
 
 # Tech stack
 
@@ -39,7 +39,7 @@ What technologies would I use if I were to start a greenfield product today?
 - [TypeScript](https://www.typescriptlang.org/) plus [React](https://react.dev/) or [Svelte](https://svelte.dev) for (dynamic) applications
 - [SCSS](https://sass-lang.com), styled components as default ([BEM](https://getbem.com/) as fallback)
 - [strapi](https://strapi.io/) as (headless) CMS
-- [cypress](https://www.cypress.io/) for integration/system tests
+- [playwright](https://playwright.dev/) for integration/system tests
 
 ### Tooling
 
